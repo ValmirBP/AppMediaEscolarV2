@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Media Escolar MVC </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Média Escolar</string>
+    <string name="nav_header_subtitle">Escola Nota 10</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="Sair">Sair</string>
+
+    <string name="menu_home">Resultado Final</string>
+    <string name="menu_gallery">Lançamento de notas </string>
+    <string name="menu_share">Compartilhar app</string>
+
+</resources>
