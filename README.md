@@ -1,19 +1,19 @@
 # MediaEscolarV2:
 
-Atualização da aplicação AppMediaEscolar com a utilização de uma inteface mais bonita e fluida para a utilização do usuário, além da integração com o banco de dados usando CRUD, com o método de desenvolvimento em camadas, MVC, além da tela splash, e integração com a rede para a busca no banco de dados.
+Update of the AppMediaEscolar application with the use of a more beautiful and fluid interface for user use, in addition to integration with the database using CRUD, with the layered development method, MVC, in addition to the splash screen, and integration with network for searching the database.
 
-# Versões:
+# Versions:
 
-Disponível para Ice Cream Sandwich (Android 4.0) em diante.
+Available for Ice Cream Sandwich (Android 4.0) onwards.
 
-# Modo de desenvolvimento:
+# Development mode:
 
-Interfaces de UI e UX personalizadas e mais dinâmicas para uma melhor experiencia do usuário, alertas de erros, tela full ( sem a exibição do nome da aplicação na área superior), icnoes de alerta modificados e listas de matérias personalizada e botões modificados, além de possibilidade de criação edição e esclusão no banco de dados, com integração com a internet.
+Customized and more dynamic UI and UX interfaces for a better user experience, error alerts, full screen (without displaying the application name in the top area), modified alert icons and personalized article lists and modified buttons, in addition to possibility of creating, editing and deleting in the database, with integration with the internet.
 
-# Exemplo de uso:
+# Example of use:
 
-Aplicativo pensado para escolas que tenham como método de avaliação, um trabalho escolar e prova, para avaliação dos alunos, com a possibilidade de mudança de matéria para avaliar a aprovação por matéria em cada bimestre.
+Application designed for schools that have as an assessment method, a school assignment and test, for evaluating students, with the possibility of changing the subject to assess approval by subject each two months.
 
-# Autor:
+# Author:
 
-Valmir de Barros Pedro - valmir.barros57@yahoo.com.br
+Valmir de Barros Pedro - valmirpsn@gmail.com
